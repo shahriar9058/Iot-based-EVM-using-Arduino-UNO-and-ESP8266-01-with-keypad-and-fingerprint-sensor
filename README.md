@@ -12,7 +12,7 @@ problem the latest result will remain stored in the server.
 
 Components used-
 Arduino Uno
-ESp8266-01
-16x2 LCD display
-4x3 Matrix keypad 
-JM-101 fingerprint sensor
+,ESp8266-01
+,16x2 LCD display
+,4x3 Matrix keypad 
+,JM-101 fingerprint sensor
